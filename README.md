@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @SMathenge
+- 👀 I’m interested in so many things, astrology, art, music, psychology, mechanical and electrical eng, aviatronic etc...
+- 🌱 I’m currently learning astrology,linguistics for NLP, ML,AI-python and all...
+- 💞️ I’m looking to collaborate on anything in data science, including analysis and algorithms...
+- currently workiing as an acedemic and content writer
+- active field of interest, NLP 
+- 📫 How to reach me simonmathengew@gmail.com, 0720867020...
+- 
+
+<!---
+SMathenge/SMathenge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
